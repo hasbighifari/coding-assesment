@@ -1,0 +1,43 @@
+.margin-dashboard {
+    margin-top: 70px;
+    width: 100%;
+}
+
+.h1-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.button-test{
+    margin-top:20px;
+    margin-bottom:25px;
+    display: flex;
+    justify-content: center;
+    
+}
+.button-custom {
+    width:60%;
+    font-weight: bold;
+    font-size:30px;
+}
+.button-vending {
+    width:100%;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.border-vending {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding:10px
+}
+.footer-text{
+    font-size: 16px;
+    font-weight:bold;
+    text-align:center;
+    color: white;
+    padding-top: 10px;
+}
